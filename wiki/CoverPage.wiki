@@ -1,10 +1,9 @@
+==Gannon University==
 
-Gannon University
+=GCIS 504/GENG 580=
+=Requirement Engineering =
 
-GCIS 504/GENG 580
-Requirement Engineering 
-
-Smart Parking System
+==Smart Parking System==
 
 Abdulatif Fatrosh \ 
 Ans Elmeshri  
