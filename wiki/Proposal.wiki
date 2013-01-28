@@ -8,7 +8,10 @@ In order to find vacant places, drivers look at the display screen which shows h
 
 Objectives:
 
-#- Organizing the parking lot.
-#- Help the costumers to reach their spots easily.
-#- Save time and money for costumers.
-#- Increasing the profit.
+- Organizing the parking lot.
+
+- Help the costumers to reach their spots easily.
+
+- Save time and money for costumers.
+
+- Increasing the profit.
