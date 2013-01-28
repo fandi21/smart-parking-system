@@ -5,3 +5,10 @@ Every day we note the increasing of numbers of cars that require more parking pl
 Overview:
 
 In order to find vacant places, drivers look at the display screen which shows how many and which type unoccupied spots are available at each floor. After obtaining the direction to the desired parking level, drivers look at internal signs hanging from the ceiling at the end of each lane to reach their spots. The new parking system is based on ultrasound sensors for each individual park. 
+
+Objectives:
+
+- Organizing the parking lot.
+- Help the costumers to reach their spots easily.
+- Save time and money for costumers.
+- Increasing the profit.
