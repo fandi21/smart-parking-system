@@ -1,10 +1,5 @@
 #summary This page for navigate the pages.
 
-_ Introduction _
-
-Add your content here.
-
-
 The following is:
   * A list
   * Of bulleted items
