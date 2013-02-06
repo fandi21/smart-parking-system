@@ -28,10 +28,15 @@ Your Work
 Your Work
 
 =3.0- Assumptions:=
-Your Work
+
+  # Every customer see the screen in every floor and the lights in every space.
+  # The screen, lights and sensor should be work all the time.
+  # The customers park his car just in space with green light.
 
 =4.0- Issues:=
-Your Work
+
+  # Every customer should stop in one space and the guards will receive notice form the system if someone stop his car in between two space.
+  # The guards should be cancel any reservation if the customer late more than half hours. 
 
 =5.0- Project Success Criteria:=
 Your Work
