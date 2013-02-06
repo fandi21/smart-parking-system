@@ -7,7 +7,7 @@
   * [TeamSkills2 TeamSkills2]
   * [TeamSkills3 TeamSkills3]
   * [TeamSkills4 TeamSkills4]
-  * [TeamSkills5 TeamSkills5]
-  * [TeamSkills6 TeamSkills6]
+  * [TeamSkills5 Team Skills 5]
+  * [TeamSkills6 Team  Skils 6]
 
   * [BusinessProcess Business Process]
