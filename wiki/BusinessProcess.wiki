@@ -12,11 +12,11 @@
 ==2.2- New Process Requirements:==
 
 || *NO* || *Process* || *Definition* || *Frequency* ||*Priority* ||
-|| *1* || *Business Requirements* || *Test the system for 2 week before approval it.* || *All users.* ||*Medium* ||
-|| *2* || *System Requirements* || *The system should be available all the time.* || *All users.* ||*High* ||
-|| *3* || *Reporting Requirements* || *The manager of the garage should be receiving report about the garage static. Also the guards receiving report if customer stops his car in tow space.* || *The guards will be twice the bill for any customer stop in tow space.* ||*High* ||
-|| *4* || *Data Requirements* || *The system stores information for reservation the customer.* || *The reservation system will make by a customer.* ||*High* ||
-|| *5* || *Security Requirements* || *Protect the reservation system.* || *All users.* ||*High* ||
+|| *1* || *Business Requirements* || *Test the system for 2 week before approval it.* || *All users.* ||*Medium*||
+|| *2* || *System Requirements* || *The system should be available all the time.* || *All users.* ||*High*||
+|| *3* || *Reporting Requirements* || *The manager of the garage should be receiving report about the garage static. Also the guards receiving report if customer stops his car in tow space.* || *The guards will be twice the bill for any customer stop in tow space.* ||*High*||
+|| *4* || *Data Requirements* || *The system stores information for reservation the customer.* || *The reservation system will make by a customer.* ||*High*||
+|| *5* || *Security Requirements* || *Protect the reservation system.* || *All users.* ||*High*||
 
 ===Personnel Requirements===
 || *Name* || *Organization* || *Role* ||
