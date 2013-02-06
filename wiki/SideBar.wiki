@@ -1,5 +1,5 @@
   * [Proposal Proposal of Project]
-    * [Discription Discription of Project]
+    * [Description Description of Project]
     * [ArticlesDom DOM manipulation]
     * [ArticlesStyle CSS and style]
     * [ArticlesTips Tips and tricks]
