@@ -1,6 +1,6 @@
   * [Proposal Proposal of Project]
     * [Description Description of Project]
-    * [ArticlesDom DOM manipulation]
+    * [Overview Overview of Project]
     * [ArticlesStyle CSS and style]
     * [ArticlesTips Tips and tricks]
   * [DOMReference DOM reference]
