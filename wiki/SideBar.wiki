@@ -3,10 +3,10 @@
     * [Overview Overview of Project]
     * [Objectives Objectives of Project]
 
-  * [TeamSkills1 TeamSkills1]
-  * [TeamSkills2 TeamSkills2]
-  * [TeamSkills3 TeamSkills3]
-  * [TeamSkills4 TeamSkills4]
+  * [TeamSkills1 Team Skills 1]
+  * [TeamSkills2 Team Skills 2]
+  * [TeamSkills3 Team Skills 3]
+  * [TeamSkills4 Team Skills 4]
   * [TeamSkills5 Team Skills 5]
   * [TeamSkills6 Team  Skils 6]
 
