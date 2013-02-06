@@ -10,10 +10,3 @@ Every day we note the increasing of numbers of cars that require more parking pl
   #2 Abdulatif Fatrosh
   #3 Hattan Ashour
   #4 Abdullah Alqahtani
-
-=*Objectives:*=
-
-  #- Organizing the parking lot.
-  #- Help the costumers to reach their spots easily.
-  #- Save time and money for costumers.
-  #- Increasing the profit.
