@@ -10,4 +10,4 @@
   * [TeamSkills5 TeamSkills5]
   * [TeamSkills6 TeamSkills6]
 
-  * [Business_Process Business Process]
+  * [BusinessProcess Business Process]
