@@ -1,7 +1,7 @@
   * [Proposal Proposal of Project]
     * [Description Description of Project]
     * [Overview Overview of Project]
-    * [ArticlesStyle CSS and style]
+    * [Objectives Objectives of Project]
     * [ArticlesTips Tips and tricks]
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
