@@ -1,10 +1,10 @@
 #sidebar SideBar
 
 =1.0- Business Objectives for Process:=
-Your Work
+Parking lot is significant in these days to all drivers especially in those crowded cities such as New York City. By providing Smart Parking System in those cities, we are going to help drivers getting their parking easily, saving time, and money.
 
 =2.0- Business Requirements:=
-Your Work
+It is normal to have parking lot, yet it is necessary to have Smart Parking System. In our project we will provide several helpful things for customers to make their life easy. Drivers need to reserve their spots online or by using a smart phone. If they are front of Smart Parking System, they just need to see a board that shows vacant spots even before they get in.  
 
 ==2.1- Process Flows:==
 Your Work
@@ -12,6 +12,14 @@ Your Work
 
 ==2.2- New Process Requirements:==
 Your Work
+
+===Personnel Requirements===
+|| *Name* || *Organization* || *Role* ||
+|| Abdulatif Fatrosh || Smart Parking System || Project Manger ||
+|| Ans Elmeshri || Smart Parking System || Programming director ||
+|| Hattan Ashour || Smart Parking System || System Analyst ||
+|| Abdullah Alqahtani || Smart Parking System || System Analyst ||
+
 
 ==2.3- Business Impact:==
 Your Work
