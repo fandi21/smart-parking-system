@@ -42,4 +42,5 @@ Your Work
   *# The guards should be cancel any reservation if the customer late more than half hours. 
 
 =5.0- Project Success Criteria:=
-*We would like to complete this system by end of the semester.
+  #* The system have to be completed by the end of this semester May 2013.
+  #*The system should be handed and easily to use for everyone.
