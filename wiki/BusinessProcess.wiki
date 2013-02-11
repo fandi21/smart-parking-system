@@ -33,9 +33,9 @@ Your Work
 Your Work
 
 =3.0- Assumptions:=
-  *# Every customer see the screen in every floor and the lights in every space.
-  *# The screen, lights and sensor should be work all the time.
-  *# The customers park his car just in space with green light.
+  *# Every customer should see the screen in each floor and see the lights in each spot.
+  *# The screens, lights and sensors should work all the time.
+  *# The customers have to only park their cars in appropriate spots.
 
 =4.0- Issues:=
   *# If a customer does not stop well in a spot or stop between two spots, the operator will receive notice from the system then the customer is going to be charged.
