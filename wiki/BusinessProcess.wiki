@@ -38,8 +38,8 @@ Your Work
   *# The customers park his car just in space with green light.
 
 =4.0- Issues:=
-  *# Every customer should stop in one space and the guards will receive notice form the system if someone stop his car in between two space.
-  *# The guards should be cancel any reservation if the customer late more than half hours. 
+  *# If a customer does not stop well in a spot or stop between two spots, the operator will receive notice from the system then the customer is going to be charged.
+  *# If another customer stops at a reserved spot accidentally. 
 
 =5.0- Project Success Criteria:=
   *# The most important point is the system have to be completed by the end of this semester May 2013.
