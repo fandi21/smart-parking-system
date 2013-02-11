@@ -25,12 +25,40 @@
 || Hattan Ashour || Smart Parking System || System Analyst ||
 || Abdullah Alqahtani || Smart Parking System || System Analyst ||
 
+==2.3 Business Impact==
+The system will increase the amount of customer.  The system will be decrease a time to find space in the garage.  The customer can use the system to reservation space before he or she come. 
 
-==2.3- Business Impact:==
-Your Work
+===2.3.1 Metrics to Measure Business Impact===
 
-==2.4- Technology Impact:==
-Your Work
+====2.3.1.1 Measurable Business Metrics to be Used====
+  *# Are there number at every space in garage?
+  *# How many screen in each floor?
+
+====2.3.1.2 Responsibility of Metrics Collection & Analysis====
+  *# The numbers of customer use the system to make reservation.
+  *# The numbers of customer who follow the instructions( the light in every space or the screen in each floor).
+  *# The numbers of customer who stop his car in tow space.
+
+====2.3.1.3 Business / System Metrics Communication Plan====
+  *# The Manger for the garage.
+  *# The operator.
+
+===2.3.2 Business Dependencies===
+This project is dependent upon the program area being able to allocate a full time functional lead by May.
+
+===2.3.3 Business Risks===
+If same customer reservation space, but when he arrive to that space, he find another car in that space.
+
+==2.4 Technology Impact==
+  *# The customer will know if there is space available before he enter to a floor.
+  *# The operator will know if some car stop in tow space.
+
+===2.4.1 Technology Dependencies===
+The reservation system will be work by the garage website and the garage application in smart phone after month from begins the system.    
+
+===2.4.2 Technology Risks===
+  *# Broken any sensor, screen or space light.
+  *# The reservation system stop work for any reason or show wrong data.
 
 =3.0- Assumptions:=
   *# Every customer should see the screen in each floor and see the lights in each spot.
