@@ -7,6 +7,10 @@
 *It is normal to have parking lot, yet it is necessary to have Smart Parking System. In our project we will provide several helpful things for customers to make their life easy. Drivers need to reserve their spots online or by using a smart phone. If they are front of Smart Parking System, they just need to see a board that shows vacant spots even before they get in.  
 
 ==2.1- Process Flows:==
+
+*Reservation Flow:
+<img src="http://oi47.tinypic.com/2crogpg.jpg"/>
+
 <img src="http://i47.tinypic.com/122dxsi.jpg"/>
 
 ==2.2- New Process Requirements:==
