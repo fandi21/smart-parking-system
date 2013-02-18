@@ -7,7 +7,9 @@
 || *Element* || *Description* ||
 || The problem of … || Take more time until find space. ||
 || Affects … || Customer. ||
-|| And results in … || # Lost time and cost. # Customers don’t bake to this park again. ||
+|| And results in … || 
+  # Lost time and cost. 
+  # Customers don’t bake to this park again. ||
 || Benefits of a solution … || # - The screen can show for all customers that how many space empty in each floor. # - Also, the customer can make reservation before he come. # - So, the screen can save the time for an customer. # - The customers will increase. ||
 
 ==Table A-2: Problem statement for the parking company:==
