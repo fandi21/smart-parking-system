@@ -58,12 +58,9 @@
 <img src="http://i53.tinypic.com/35n3gh3.jpg"/>
 
 =Warm Up session=
-# A brief introduction about the user needs.
-# An overview on how the new system is going to be built and which basic features will be provided.
+  *# A brief introduction about the user needs.
+  *# An overview on how the new system is going to be built and which basic features will be provided.
 
-=Warm Up session=
-*# A brief introduction about the user needs.
-*# An overview on how the new system is going to be built and which basic features will be provided.
 ==List of Features with Priority==
 
 || * Function * || * Priority * ||
