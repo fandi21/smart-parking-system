@@ -3,44 +3,39 @@
 =Understanding User and Stakeholder Needs=
 
 ==From Users of parking lot's point view==
-
-# Ability to obtain a vacant spot without losing time.
-# Ability to reserve a spot online.
-# Ability to provide appropriate spots for a hand cab and reserved spots
-# It is necessary to have a secured parking lot.
-# Easy to use a reservation system online or on smart phone.
-# Organized parking lot.
-# Easy to understand parking rules.
+  # Ability to obtain a vacant spot without losing time.
+  # Ability to reserve a spot online.
+  # Ability to provide appropriate spots for a hand cab and reserved spots.
+  # It is necessary to have a secured parking lot.
+  # Easy to use a reservation system online or on smart phone.
+  # Organized parking lot.
+  # Easy to understand parking rules.
 
 ==From stakeholders of parking lot's point view==
-
-# Easy to use
-# Logical progression of tutorial difficulty
-# Meaningful feedback
-# Able to review previous lessons
-# Save progress
-# Learn enough to have a conversation in all sign
+  # Easy to use.
+  # Logical progression of tutorial difficulty.
+  # Meaningful feedback.
+  # Able to review previous lessons.
+  # Save progress.
+  # Learn enough to have a conversation in all sign.
 
 =Interview=
 
 ==Who are the users?==
-
-# Normal drivers and hand cab drivers 
-# Manger of parking lot.
+  # Normal drivers and hand cab drivers.
+  # Manger of parking lot.
 
 ==What is the problem?==
-
-# No website for reservation system. 
-# No software to organize the parking lot.
-# No sings show direction and if there are empty spots or not.
-# There is no guaranteed spot for customers who make reservation.
+  # No website for reservation system. 
+  # No software to organize the parking lot.
+  # No sings show direction and if there are empty spots or not.
+  # There is no guaranteed spot for customers who make reservation.
 
 ==How do you currently solve the problem?==
-
-# Create a reservation system online or on smart phone.
-# Create ultrasound software system.
-# Make boards which are feedback from the software.
-# Create arm gate system or it will be designed when a parking lot is built.
+  # Create a reservation system online or on smart phone.
+  # Create ultrasound software system.
+  # Make boards which are feedback from the software.
+  # Create arm gate system or it will be designed when a parking lot is built.
 
 =The Requirement Workshop=
 
@@ -57,8 +52,8 @@
 || * Jasmine * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
 
 =Warm Up session=
-# A brief introduction about the user needs.
-# An overview on how the new system is going to be built and which basic features will be provided.
+  # A brief introduction about the user needs.
+  # An overview on how the new system is going to be built and which basic features will be provided.
 
 ==Agenda==
 || * Time * || * Agenda item * || * Description * ||
