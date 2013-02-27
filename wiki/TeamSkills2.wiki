@@ -3,9 +3,9 @@
 =Understanding User and Stakeholder Needs=
 
 ==From Users of parking lot's point view==
-  # Ability to obtain a vacant spot without losing time.
-  # Ability to reserve a spot online.
-  # Ability to provide appropriate spots for a hand cab and reserved spots.
+  *# Ability to obtain a vacant spot without losing time.
+  *# Ability to reserve a spot online.
+  *# Ability to provide appropriate spots for a hand cab and reserved spots.
   # It is necessary to have a secured parking lot.
   # Easy to use a reservation system online or on smart phone.
   # Organized parking lot.
