@@ -1,15 +1,70 @@
 #sidebar SideBar
 
-#summary One-sentence summary of this page.
+=Understanding User and Stakeholder Needs=
 
-= Introduction =
+==From Users of parking lot's point view==
 
-Add your content here.
+# Ability to obtain a vacant spot without losing time.
+# Ability to reserve a spot online.
+# Ability to provide appropriate spots for a hand cab and reserved spots
+# It is necessary to have a secured parking lot.
+# Easy to use a reservation system online or on smart phone.
+# Organized parking lot.
+# Easy to understand parking rules.
 
+==From stakeholders of parking lot's point view==
 
-= Details =
+# Easy to use
+# Logical progression of tutorial difficulty
+# Meaningful feedback
+# Able to review previous lessons
+# Save progress
+# Learn enough to have a conversation in all sign
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=Interview=
+
+==Who are the users?==
+
+# Normal drivers and hand cab drivers 
+# Manger of parking lot.
+
+==What is the problem?==
+
+# No website for reservation system. 
+# No software to organize the parking lot.
+# No sings show direction and if there are empty spots or not.
+# There is no guaranteed spot for customers who make reservation.
+
+==How do you currently solve the problem?==
+
+# Create a reservation system online or on smart phone.
+# Create ultrasound software system.
+# Make boards which are feedback from the software.
+# Create arm gate system or it will be designed when a parking lot is built.
+
+=The Requirement Workshop=
+
+==Attendees of the Smart-Parking-System Requirements Workshop==
+
+|| * Name * || * Role * || * Title * || * Comments * ||
+|| * Ali * || * Facilitator * || * Stakeholder * || * Sponsor/ financing * ||
+|| * Abdulatif * || * Participant * || * Software development manager * || *Project Lead *||
+|| * Abdullah * || * Participant * || * Technologist * || * System engineer * ||
+|| * Hattan * || * Participant * || * Interface team leader * || * Interfacing APIs with hardware/software * ||
+|| * Gaelle * || * Participant * || * Engineer team leader * || * System design leader * ||
+|| * John * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
+|| * Brian * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
+|| * Jasmine * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
+
+=Warm Up session=
+# A brief introduction about the user needs.
+# An overview on how the new system is going to be built and which basic features will be provided.
+
+==Agenda==
+|| * Time * || * Agenda item * || * Description * ||
+|| *9:00 to 9:30 am * || * Introduction * || * Reviewing the agenda * ||
+|| * 9:00 to 9:30 am * || * Overview * || * Discussion on the interviews * ||
+|| * 10:30 to 12:00 pm * || * Brainstorming * || * Users: ideas on features * ||
+|| * 12:00 to 1:00 pm * || * Lunch break * || * - * ||
+|| * 1:00 to 2:00 pm * || * Brainstorming * || * company: ideas on features * ||
+|| * 2:00 to 3:00 pm * || * Feature definition * || * Based on users’ and company’s ideas * ||
