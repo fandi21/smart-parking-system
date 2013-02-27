@@ -5,24 +5,24 @@
 ==From Users of parking lot's point view==
   *# Ability to obtain a vacant spot without losing time.
   *# Ability to reserve a spot online.
-  *# Ability to provide appropriate spots for a hand cab and reserved spots.
+  *# Ability to provide appropriate spots for a hand cab and reserved spots
   *# It is necessary to have a secured parking lot.
   *# Easy to use a reservation system online or on smart phone.
   *# Organized parking lot.
   *# Easy to understand parking rules.
 
 ==From stakeholders of parking lot's point view==
-  *# Easy to use.
-  *# Logical progression of tutorial difficulty.
-  *# Meaningful feedback.
-  *# Able to review previous lessons.
-  *# Save progress.
-  *# Learn enough to have a conversation in all sign.
+  *# Easy to use
+  *# Logical progression of tutorial difficulty
+  *# Meaningful feedback
+  *# Able to review previous lessons
+  *# Save progress
+  *# Learn enough to have a conversation in all sign
 
 =Interview=
 
 ==Who are the users?==
-  *# Normal drivers and hand cab drivers.
+  *# Normal drivers and hand cab drivers 
   *# Manger of parking lot.
 
 ==What is the problem?==
@@ -42,24 +42,52 @@
 ==Attendees of the Smart-Parking-System Requirements Workshop==
 
 || * Name * || * Role * || * Title * || * Comments * ||
-|| * Ali * || * Facilitator * || * Stakeholder * || * Sponsor/ financing * ||
-|| * Abdulatif * || * Participant * || * Software development manager * || *Project Lead *||
-|| * Abdullah * || * Participant * || * Technologist * || * System engineer * ||
-|| * Hattan * || * Participant * || * Interface team leader * || * Interfacing APIs with hardware/software * ||
-|| * Gaelle * || * Participant * || * Engineer team leader * || * System design leader * ||
-|| * John * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
-|| * Brian * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
-|| * Jasmine * || * Observer * || * Stockholder * || * Institution’s Administrator * ||
+|| * Yousef * || * Facilitator * || * Parking owner * || * Stakeholder * ||
+|| * Ahmed * || * Participant * || * Manager * || * Parking worker * ||
+|| * Jalal * || * Participant * || * An Engineer * || * Parking worker "Interfacing SPS problems" * ||
+|| * Abdulhakum * || * Participant * || * Cashier * || * Parking worker * ||
+|| * Akram * || * Participant * || * Security man * || * Parking worker * ||
+|| * Reda * || * Participant * || * Customer * || * Parking customer * ||
+|| * Ali * || * Participant * || * Customer * || * Parking customer * ||
+|| * Mohammed * || * Participant * || * Customer * || * Parking customer * ||
+|| * Abdulatif * || * Observer * || * SPS developer * || * Project Manager * ||
+|| * Ans * || * Observer * || * SPS developer * || * Project Designer * ||
+|| * Abdullah * || * Observer * || * SPS developer * || * System Analyst * ||
+|| * Hattan * || * Observer * || * SPS developer * || * System Analyst * ||
+
+<img src="http://i53.tinypic.com/35n3gh3.jpg"/>
 
 =Warm Up session=
-  *# A brief introduction about the user needs.
-  *# An overview on how the new system is going to be built and which basic features will be provided.
+# A brief introduction about the user needs.
+# An overview on how the new system is going to be built and which basic features will be provided.
 
-==Agenda==
-|| * Time * || * Agenda item * || * Description * ||
-|| *9:00 to 9:30 am * || * Introduction * || * Reviewing the agenda * ||
-|| * 9:00 to 9:30 am * || * Overview * || * Discussion on the interviews * ||
-|| * 10:30 to 12:00 pm * || * Brainstorming * || * Users: ideas on features * ||
-|| * 12:00 to 1:00 pm * || * Lunch break * || * - * ||
-|| * 1:00 to 2:00 pm * || * Brainstorming * || * company: ideas on features * ||
-|| * 2:00 to 3:00 pm * || * Feature definition * || * Based on users’ and company’s ideas * ||
+=Warm Up session=
+*# A brief introduction about the user needs.
+*# An overview on how the new system is going to be built and which basic features will be provided.
+==List of Features with Priority==
+
+|| * Function * || * Priority * ||
+|| * Easy to use and find reservation * || * High * ||
+|| * Fast * || * High * ||
+|| * Accurate * || * High * ||
+|| * Reliable * || * High * ||
+|| * Short time * || * High * ||
+|| * Speed of reservation’s update * || * High * ||
+|| * Expanding database * || * High * ||
+|| * Save process * || * High * ||
+|| * Notification of new reservation * || * High * ||
+|| * Meaningful feedback * || *	Medium * ||
+|| * Include languages other than English * || * Low * ||
+
+=Use Cases=
+|| * Name * || * Description * || * Actors * ||
+|| * Using * || * online * || * Go to parking website or Smartphone App	Customers * ||
+|| * Area * || * Choosing a zone by putting Zip cod * || * Customers * ||
+|| * Availability * || * Check an available parking and spot * || * System * ||
+|| * Reservation * || * Choosing a vacant spot * || * Customers * ||	
+|| * Information * || * Entering the personal information * || * Customers * ||		
+|| * Confirmation * || * Obtaining or receiving the confirmation number * || * System * ||
+|| * Notification * || * Sending the confirmation number by E-mail or text message * || * System * ||
+|| * Direction	* || * Giving the map direction for parking and spot * || * System * ||
+|| * Save process * || * Automatic saving * || * System * ||
+|| * End process * || * Close the website page or Smartphone App * || * Customers * ||
