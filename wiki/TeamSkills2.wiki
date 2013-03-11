@@ -12,12 +12,11 @@
   *# Easy to understand parking rules.
 
 ==From stakeholders of parking lot's point view==
-  *# Easy to use
-  *# Logical progression of tutorial difficulty
-  *# Meaningful feedback
-  *# Able to review previous lessons
-  *# Save progress
-  *# Learn enough to have a conversation in all sign
+  *# Easy to use.
+  *# Organized parking lot.
+  *# Easy to understand parking rules.
+  *# Sufficient profit.
+  *# Operator, Security, an engineer. 
 
 =Interview=
 
