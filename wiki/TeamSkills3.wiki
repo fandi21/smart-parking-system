@@ -1,6 +1,6 @@
 #sidebar SideBar
 
-=Introduction=
+=-Introduction-=
 
 ==1.1 Purpose of the Vision Document==
 The purpose of the vision document is to collect, analyze implementation, test and define high-level needs and features of the Smart Parking System. 
