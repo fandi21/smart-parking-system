@@ -13,7 +13,7 @@ Business Process
 Team Skill 1
 Team Skill 2
 
-=User Description=
+=-User Description-=
 
 ==2.1 User/Market Demographics==
 
@@ -61,7 +61,7 @@ Customers may come to a curtain location or parking lot to make a reservation in
 ===2.5.2 Phone reservation===
 Customers may call an operator of curtain parking lot to make reservations.
  
-=SPS Overview=
+=-SPS Overview-=
 
 ==3.1 SPS Perspective==
  
@@ -80,11 +80,11 @@ Customers may call an operator of curtain parking lot to make reservations.
 ==3.5 Cost and Pricing==
 The cost and pricing will be determined after finishing this project.
 
-=Feature Attributes=
+=-Feature Attributes-=
 
 
 
-=SPS system Features=
+=-SPS system Features-=
 
 ==5.1 Board guide way: help customers to drive to their vacant spots easily.==
 
@@ -92,7 +92,7 @@ The cost and pricing will be determined after finishing this project.
 
 ==5.3 Easy to use: Customers can easily handle it and save their time.==
 
-=Exemplary Use Case=
+=-Exemplary Use Case-=
 
 
 
@@ -117,7 +117,7 @@ The cost and pricing will be determined after finishing this project.
 
 
 
-=Other Product Requirements=
+=-Other Product Requirements-=
 
 ==7.1 Applicable Standards==
   *#Internet.
@@ -142,7 +142,7 @@ The cost and pricing will be determined after finishing this project.
   *#High response of the system. 
   *#Ability to control all reservation in order to add or delete. 
 
-=Documentation Requirements=
+=-Documentation Requirements-=
 
 ==8.1 User Manual==
 User manual helps operators to know much about the system and how to use and handle SPS.
@@ -154,5 +154,5 @@ Online Help also will provide a video help to explain how customers use SPS.
 ==8.3 Installation Guides, Configuration, Read Me File==
 This term show the customers guide which supposed to be easy to understand and deal with.
 
-=Glossary=
+=-Glossary-=
 SPS- Smart Parking System 
