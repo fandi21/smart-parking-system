@@ -1,6 +1,6 @@
 #sidebar SideBar
 
-=Analyzing The Problem=
+=Team Skill 1: Analyzing The Problem=
 
 ==Table A-1: Problem statement for Smart Parking System:==
 
