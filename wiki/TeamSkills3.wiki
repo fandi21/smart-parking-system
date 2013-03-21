@@ -66,10 +66,17 @@ Customers may call an operator of curtain parking lot to make reservations.
 ==3.1 SPS Perspective==
  
 ==3.2. SPS Position Statement==
-
+|| * For * || * Smart Parking System’s customers * ||
+|| * Who * || * Smart Parking System’s customers * ||
+|| * SPS * || * Smart Parking System’s customers * ||
+|| * That * || * Smart Parking System’s customers * ||
+|| * Unlike * || * Smart Parking System’s customers * ||
+|| * Our Product * || * Smart Parking System’s customers * ||
 
 ==3.3 Summary of Capabilities.==
-
+|| * Customer Benefits * || * Supporting Features * ||
+|| * By making a reservation online, they are able to save time and money. * || * Reservation * ||
+|| * Heading to vacant spots in fast way. * || * Board guide a way * ||
 
 ==3.4 Assumptions and Dependencies==
   *#Customers of SPS should be able to deal with a computer or a smart phone.
@@ -82,7 +89,23 @@ The cost and pricing will be determined after finishing this project.
 
 =-Feature Attributes-=
 
-
+|| * Function * || * Status * || * Risk * || * Priority * || * Stability * ||
+|| * Sufficient profit.  * || * Approved * || * High * || * High * || * High * ||
+|| * Organized parking lot. * || * Approved * || * High * || * High * || * High * ||
+|| * Operator, Security, an engineer. * || * Approved * || * High * || * High * || * Mid * ||
+|| * Parking rules. * || * Approved * || * High * || * High * || * Low * ||
+|| * Parking’s security. * || * Approved * || * High * || * High * || * High * ||
+|| * Fast and accurate system. * || * Approved * || * High * || * High * || * High * ||
+|| * Reliable system. * || * Approved * || * High * || * High * || * High * ||
+|| * Able to add new features in the future. * || * Approved * || * Mid * || * Mid * || * Mid * ||
+|| * Speed of reservation’s update. * || * Approved * || * Low * || * Low * || * Low * ||
+|| * Notification of new reservations. * || * Approved * || * High * || * High * || * High * ||
+|| * Easy to understand parking rules.  * || * Approved * || * High * || * High * || * High * ||
+|| * Ability to obtain a vacant spot without losing time. * || * Approved * || * High * || * High * || * High * ||
+|| * Ability to reserve a spot online. * || * Approved * || * High * || * High * || * High * ||
+|| * Ability to provide appropriate spots for a hand cab and reserved spots. * || * Approved * || * High * || * High * || * High * ||
+|| * The system should be easy to handle. * || * Approved * || * High * || * High * || * High * ||
+|| * Available service any time. * || * Approved * || * High * || * High * || * High * ||
 
 =-SPS system Features-=
 
@@ -94,9 +117,15 @@ The cost and pricing will be determined after finishing this project.
 
 =-Exemplary Use Case-=
 
-
+|| * Name * || * Description * || * Actors * ||
+|| * Choose location (Zip code) * || * The customers should enter zip code for choosing their parking. * || * SPS Customer * ||
+|| * Choose Date & time * || * The customers should enter date & time information. * || * SPS Customer * ||
+|| * Choose spot number * || * The customers choose a vacant spot which they want. * || * SPS Customer * ||
+|| * Making reservation * || * The customers reserve available spots. * || * SPS Customer & operators * ||
 
 ==6.1 Use cases==
+
+<img src="http://i50.tinypic.com/2nuk2a0.jpg"/>
  
 ==6.2 Use cases Description==
 
