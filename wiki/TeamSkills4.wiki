@@ -1,6 +1,6 @@
 #sidebar SideBar
 
-=Managing Scope=
+=Team Skill 4: Managing Scope=
 
 =Establishing Project Scope=
 
