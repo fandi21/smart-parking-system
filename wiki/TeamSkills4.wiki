@@ -1,15 +1,51 @@
 #sidebar SideBar
 
-#summary One-sentence summary of this page.
+=Managing Scope=
 
-= Introduction =
+=Establishing Project Scope=
 
-Add your content here.
+==The Problem of Project Scope==
 
+==The Hard Question==
 
-= Details =
+==The Requirement Baseline==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Setting Priorities==
+
+==Assessing Effort==
+
+==Table 18-1: Prioritized Features List==
+
+==Adding the Risk Element==
+
+==Table 18-2: Prioritized Features List with Effort Estimates==
+
+==Table 18-3: Prioritized Features List with Effort and Risk Estimates==
+
+==Reducing Scope==
+
+==Table 18-4: Scope Prioritization Techniques==
+
+==A Reasonable First Estimate==
+
+==Table 18-5: Final Prioritized Features List==
+
+==The Case Study: Scope Management for Holis==
+
+==Table 18-6: Prioritized Holis Features List with Effort and Risk Estimates==
+
+==Table 18-7: Baseline for Holis v1.0 Features==
+
+=Managing Your Customer=
+
+==Engaging Customers to Manage Their Project Scope==
+
+==Communicating the Result==
+
+==Negotiating with the Customer==
+
+==Managing the Baseline==
+
+==Official Changes==
+
+==Unofficial Changes==
