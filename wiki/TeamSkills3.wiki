@@ -131,20 +131,35 @@ The cost and pricing will be determined after finishing this project.
 
 ===6.2.1 Choose location use case===
 
-
-
+|| * Use case number * || * Description * || * Actors * ||
+|| * Choose location (Zip code) * || * The customers should enter zip code for choosing their parking. * || * SPS Customer * ||
+|| * Choose Date & time * || * The customers should enter date & time information. * || * SPS Customer * ||
+|| * Choose spot number * || * The customers choose a vacant spot which they want. * || * SPS Customer * ||
+|| * Making reservation * || * The customers reserve available spots. * || * SPS Customer & operators * ||
 
 ===6.2.2 Choose date and time use case===
 
-
+|| * Use case number * || * Description * || * Actors * ||
+|| * Choose location (Zip code) * || * The customers should enter zip code for choosing their parking. * || * SPS Customer * ||
+|| * Choose Date & time * || * The customers should enter date & time information. * || * SPS Customer * ||
+|| * Choose spot number * || * The customers choose a vacant spot which they want. * || * SPS Customer * ||
+|| * Making reservation * || * The customers reserve available spots. * || * SPS Customer & operators * ||
 
 ===6.2.3 Choose spot number use case===
 
-
+|| * Use case number * || * Description * || * Actors * ||
+|| * Choose location (Zip code) * || * The customers should enter zip code for choosing their parking. * || * SPS Customer * ||
+|| * Choose Date & time * || * The customers should enter date & time information. * || * SPS Customer * ||
+|| * Choose spot number * || * The customers choose a vacant spot which they want. * || * SPS Customer * ||
+|| * Making reservation * || * The customers reserve available spots. * || * SPS Customer & operators * ||
 
 ===6.2.4 Making reservation use case===
 
-
+|| * Use case number * || * Description * || * Actors * ||
+|| * Choose location (Zip code) * || * The customers should enter zip code for choosing their parking. * || * SPS Customer * ||
+|| * Choose Date & time * || * The customers should enter date & time information. * || * SPS Customer * ||
+|| * Choose spot number * || * The customers choose a vacant spot which they want. * || * SPS Customer * ||
+|| * Making reservation * || * The customers reserve available spots. * || * SPS Customer & operators * ||
 
 =-Other Product Requirements-=
 
