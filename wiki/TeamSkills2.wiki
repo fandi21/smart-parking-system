@@ -1,6 +1,6 @@
 #sidebar SideBar
 
-=Understanding User and Stakeholder Needs=
+=Team Skill 2: Understanding User and Stakeholder Needs=
 
 ==From Users of parking lot's point view==
   *# Ability to obtain a vacant spot without losing time.
