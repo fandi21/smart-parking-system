@@ -16,25 +16,104 @@
 
 ==Table 18-1: Prioritized Features List==
 
+|| * Feature * || * Priority * ||
+|| * Feature 1: * || * Critical * ||
+|| * Feature 2: * || * Critical * ||
+|| * Feature 3: * || * Critical * ||
+|| * Feature 4: * || * Critical * ||
+|| * Feature 5: * || * Critical * ||
+|| * Feature 6: * || * Critical * ||
+|| * Feature 7: * || * Critical * ||
+|| * Feature 8: * || * Critical * ||
+
 ==Adding the Risk Element==
 
 ==Table 18-2: Prioritized Features List with Effort Estimates==
 
+|| * Feature * || * Priority * || * Effort * ||
+|| * Feature 1: * || * Critical * || * Medium * ||
+|| * Feature 2: * || * Critical * || * High * ||
+|| * Feature 3: * || * Critical * || * Low * ||
+|| * Feature 4: * || * Critical * || * Effort * ||
+|| * Feature 5: * || * Critical * || * Effort * ||
+|| * Feature 6: * || * Critical * || * Effort * ||
+|| * Feature 7: * || * Critical * || * Effort * ||
+|| * Feature 8: * || * Critical * || * Effort * ||
+
 ==Table 18-3: Prioritized Features List with Effort and Risk Estimates==
+
+|| * Feature * || * Priority * || * Effort * || * Risk * ||
+|| * Feature 1: * || * Critical * || * Medium * || * Medium * ||
+|| * Feature 2: * || * Critical * || * High * || * Medium * ||
+|| * Feature 3: * || * Critical * || * Low * || * Medium * ||
+|| * Feature 4: * || * Critical * || * Effort * || * Medium * ||
+|| * Feature 5: * || * Critical * || * Effort * || * Medium * ||
+|| * Feature 6: * || * Critical * || * Effort * || * Medium * ||
+|| * Feature 7: * || * Critical * || * Effort * || * Medium * ||
+|| * Feature 8: * || * Critical * || * Effort * || * Medium * ||
 
 ==Reducing Scope==
 
 ==Table 18-4: Scope Prioritization Techniques==
 
+|| * Attributes * || * Consider * ||
+|| * Attributes * || * Consider * ||
+|| * Attributes * || * Consider * ||
+|| * Attributes * || * Consider * ||
+
 ==A Reasonable First Estimate==
 
 ==Table 18-5: Final Prioritized Features List==
+
+|| * Feature * || * Priority * || * Effort * ||
+|| * Feature 1: * || * Critical * || * Medium * ||
+|| * Feature 4: * || * Critical * || * High * ||
+|| * Feature 6: * || * Critical * || * Low * ||
+|| * Feature 3: * || * Critical * || * Effort * ||
+
+Baseline (features above this line are committed features)
+|| * Feature 2: * || * Critical * || * Effort * ||
+|| * Feature 5: * || * Critical * || * Effort * ||
+|| * Feature 7: * || * Critical * || * Effort * ||
+|| * Feature 8: * || * Critical * || * Effort * ||
 
 ==The Case Study: Scope Management for Holis==
 
 ==Table 18-6: Prioritized Holis Features List with Effort and Risk Estimates==
 
+|| * ID * || * Feature * || * Votes * || * Effort * || * Risk * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+
 ==Table 18-7: Baseline for Holis v1.0 Features==
+
+|| * ID * || * Feature * || * Votes * || * Effort * || * Risk * || * Marketing Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
+|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
 
 =Managing Your Customer=
 
