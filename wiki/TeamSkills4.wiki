@@ -43,14 +43,26 @@
 ==Table 18-3: Prioritized Features List with Effort and Risk Estimates==
 
 || * Feature * || * Priority * || * Effort * || * Risk * ||
-|| * Feature 1: * || * Critical * || * Medium * || * Medium * ||
-|| * Feature 2: * || * Critical * || * High * || * Medium * ||
-|| * Feature 3: * || * Critical * || * Low * || * Medium * ||
-|| * Feature 4: * || * Critical * || * Effort * || * Medium * ||
-|| * Feature 5: * || * Critical * || * Effort * || * Medium * ||
-|| * Feature 6: * || * Critical * || * Effort * || * Medium * ||
-|| * Feature 7: * || * Critical * || * Effort * || * Medium * ||
-|| * Feature 8: * || * Critical * || * Effort * || * Medium * ||
+|| * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * || * High * ||
+|| * The system will reduce the customer’s time to find the spot. * || * Critical * || * High * || * High * ||
+|| * The system is security. * || * Important * || * Low * || * Medium * ||
+|| * The size for the database is acceptable. * || * Useful * || * Medium * || * Low * ||
+|| * The system is reliability. * || * Important * || * Medium * || * Medium * ||
+|| * The system cost is inexpensive. * || * Important * || * Low * || * Medium * ||
+|| * The system will reduce the number of operator. * || * Useful * || * High * || * High * ||
+|| * The customers can reservation by the smart phone. * || * Critical * || * High * || * High * ||
+|| * The customers can reservation before come. * || * Critical * || * Effort * || * High * ||
+|| * Membership is not required to make reservation. * || * Important * || * Low * || * Medium * ||
+|| * The system will be available 24 hours in 7 days. * || * Critical * || * High * || * High * ||
+|| * The cost for the maintenance is low. * || * Important * || * Medium * || * Low * ||
+|| * The time for the maintenance is short. * || * Important * || * Medium * || * Low * ||
+|| * The system will work automatically. * || * Critical * || * High * || * Medium * ||
+|| * The update of the system will be in short time. * || * Useful * || * Low * || * Medium * ||
+|| * The system will be easily to use. * || * Critical * || * Medium * || * Low * ||
+|| * Easy to understand parking rules. * || * Useful * || * Low * || * High * ||
+|| * Short time and steps to make a reservation. * || * Important * || * Low * || * Medium * ||
+|| * Low time to make reservation. * || * Critical * || * High * || * Medium * ||
+|| * The screen in each floor will help customers to find empty spot. * || * Critical * || * High * || * High * ||
 
 ==Reducing Scope==
 
