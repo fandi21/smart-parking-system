@@ -17,28 +17,52 @@
 ==Table 18-1: Prioritized Features List==
 
 || * Feature * || * Priority * ||
-|| * Feature 1: * || * Critical * ||
-|| * Feature 2: * || * Critical * ||
-|| * Feature 3: * || * Critical * ||
-|| * Feature 4: * || * Critical * ||
-|| * Feature 5: * || * Critical * ||
-|| * Feature 6: * || * Critical * ||
-|| * Feature 7: * || * Critical * ||
-|| * Feature 8: * || * Critical * ||
+|| * The system will reduce the customer’s money to find the spot. * || * Critical * ||
+|| * The system will reduce the customer’s time to find the spot. * || * Critical * ||
+|| * The system is security. * || * Important * ||
+|| * The size for the database is acceptable. * || * Useful * ||
+|| * The system is reliability. * || * Important * ||
+|| * The system cost is inexpensive. * || * Important * ||
+|| * The system will reduce the number of operator. * || * Useful * ||
+|| * The customers can reservation by the smart phone. * || * Critical * ||
+|| * The customers can reservation before come. * || * Critical * ||
+|| * Membership is not required to make reservation. * || * Important * ||
+|| * The system will be available 24 hours in 7 days. * || * Critical * ||
+|| * The cost for the maintenance is low. * || * Important * ||
+|| * The time for the maintenance is short. * || * Important * ||
+|| * The system will work automatically. * || * Critical * ||
+|| * The update of the system will be in short time. * || * Useful * ||
+|| * The system will be easily to use. * || * Critical * ||
+|| * Easy to understand parking rules. * || * Useful * ||
+|| * Short time and steps to make a reservation. * || * Important * ||
+|| * Low time to make reservation. * || * Critical * ||
+|| * The screen in each floor will help customers to find empty spot. * || * Critical * ||
 
 ==Adding the Risk Element==
 
 ==Table 18-2: Prioritized Features List with Effort Estimates==
 
 || * Feature * || * Priority * || * Effort * ||
-|| * Feature 1: * || * Critical * || * Medium * ||
-|| * Feature 2: * || * Critical * || * High * ||
-|| * Feature 3: * || * Critical * || * Low * ||
-|| * Feature 4: * || * Critical * || * Effort * ||
-|| * Feature 5: * || * Critical * || * Effort * ||
-|| * Feature 6: * || * Critical * || * Effort * ||
-|| * Feature 7: * || * Critical * || * Effort * ||
-|| * Feature 8: * || * Critical * || * Effort * ||
+|| * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * ||
+|| * The system will reduce the customer’s time to find the spot. * || * Critical * || * High * ||
+|| * The system is security. * || * Important * || * Low * ||
+|| * The size for the database is acceptable. * || * Useful * || * Medium * ||
+|| * The system is reliability. * || * Important * || * Medium * ||
+|| * The system cost is inexpensive. * || * Important * || * Low * ||
+|| * The system will reduce the number of operator. * || * Useful * || * High * ||
+|| * The customers can reservation by the smart phone. * || * Critical * || * High * ||
+|| * The customers can reservation before come. * || * Critical * || * Effort * ||
+|| * Membership is not required to make reservation. * || * Important * || * Low * ||
+|| * The system will be available 24 hours in 7 days. * || * Critical * || * High * ||
+|| * The cost for the maintenance is low. * || * Important * || * Medium * ||
+|| * The time for the maintenance is short. * || * Important * || * Medium * ||
+|| * The system will work automatically. * || * Critical * || * High * ||
+|| * The update of the system will be in short time. * || * Useful * || * Low * ||
+|| * The system will be easily to use. * || * Critical * || * Medium * ||
+|| * Easy to understand parking rules. * || * Useful * || * Low * ||
+|| * Short time and steps to make a reservation. * || * Important * || * Low * ||
+|| * Low time to make reservation. * || * Critical * || * High * ||
+|| * The screen in each floor will help customers to find empty spot. * || * Critical * || * High * ||
 
 ==Table 18-3: Prioritized Features List with Effort and Risk Estimates==
 
