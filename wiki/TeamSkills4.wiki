@@ -117,21 +117,27 @@ Baseline (features above this line are committed features)
 
 ==Table 18-6: Prioritized SPS Features List with Effort and Risk Estimates==
 
-|| * ID * || * Feature * || * Votes * || * Effort * || * Risk * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
-|| * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
+|| * ID * || * Feature * || * Priority * || * Effort * || * Risk * ||
+|| * 01 * || * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * || * Medium * ||
+|| * 02 * || * The system will reduce the customer’s time to find the spot. * || * Critical * || * High * || * Medium * ||
+|| * 03 * || * The system is security. * || * Low * || * Medium * || * Medium * ||
+|| * 04 * || * The size for the database is acceptable. * || * Useful * || * Medium * || * Low * ||
+|| * 05 * || * The system is reliability. * || * Important * || * Medium * || * Medium * ||
+|| * 06 * || * The system cost is inexpensive. * || * Important * || * Medium * || * Medium * ||
+|| * 07 * || * The system will reduce the number of operator. * || * Useful * || * Low * || * Low * ||
+|| * 08 * || * The customers can reservation by the smart phone. * || * Critical * || * High * || * Medium * ||
+|| * 09 * || * The customers can reservation before come. * || * Critical * || * High * || * Medium * ||
+|| * 10 * || * Membership is not required to make reservation. * || * Important * || * Low * || * Medium * ||
+|| * 11 * || * The system will be available 24 hours in 7 days. * || * Critical * || * High * || * Medium * ||
+|| * 12 * || * The cost for the maintenance is low. * || * Important * || * Medium * || * Low * ||
+|| * 13 * || * The time for the maintenance is short. * || * Important * || * Medium * || * Low  * ||
+|| * 14 * || * The system will work automatically. * || * Critical * || * High * || * Medium * ||
+|| * 15 * || * The update of the system will be in short time. * || * Useful * || * Low * || * Low * ||
+|| * 16 * || * The system will be easily to use. * || * Critical * || * Medium * || * Medium * ||
+|| * 17 * || * Easy to understand parking rules. * || * Useful * || * Low * || * Medium * ||
+|| * 18 * || * Short time and steps to make a reservation. * || * Important * || * Low * || * Medium * ||
+|| * 19 * || * Low time to make reservation.* || * Critical * || * High * || * Medium * ||
+|| * 20 * || * The screen in each floor will help customers to find empty spot. * || * Critical * || * High * || * Medium * ||
 
 ==Table 18-7: Baseline for SPS initial release==
 
