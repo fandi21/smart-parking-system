@@ -113,9 +113,9 @@ Baseline (features above this line are committed features)
 || * Feature 7: * || * Critical * || * Effort * ||
 || * Feature 8: * || * Critical * || * Effort * ||
 
-==The Case Study: Scope Management for Holis==
+==The Case Study: Scope Management for SPS==
 
-==Table 18-6: Prioritized Holis Features List with Effort and Risk Estimates==
+==Table 18-6: Prioritized SPS Features List with Effort and Risk Estimates==
 
 || * ID * || * Feature * || * Votes * || * Effort * || * Risk * ||
 || * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
@@ -133,7 +133,7 @@ Baseline (features above this line are committed features)
 || * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
 || * 00 * || * Feature * || * 000 * || * Medium * || * Medium * ||
 
-==Table 18-7: Baseline for Holis v1.0 Features==
+==Table 18-7: Baseline for SPS initial release==
 
 || * ID * || * Feature * || * Votes * || * Effort * || * Risk * || * Marketing Comments * ||
 || * 00 * || * Feature * || * 000 * || * Medium * || * Medium * || * Comments * ||
