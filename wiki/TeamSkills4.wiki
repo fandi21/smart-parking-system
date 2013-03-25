@@ -149,7 +149,7 @@ Baseline (features above this line are committed features)
 || * 05 * || * The system is reliability. * || * Important * || * Medium * || * Medium * || * - * ||
 || * 18 * || * Short time and steps to make a reservation. * || * Important * || * Low * || * Medium * || * As flexible as possible * ||
 
-V1.0 Mandatory Baseline: Everything above must be included or we will delay release
+*V1.0 Mandatory Baseline: Everything above must be included or we will delay release*
 
 || * 03 * || * The system is security. * || * Low * || * Medium * || * Medium * || * It is important. * ||
 || * 13 * || * The time for the maintenance is short. * || * Important * || * Medium * || * Low  * || * Nice if we can get it. * ||
@@ -158,7 +158,7 @@ V1.0 Mandatory Baseline: Everything above must be included or we will delay rele
 || * 04 * || * The size for the database is acceptable. * || * Useful * || * Medium * || * Low * || * - * ||
 || * 17 * || * Easy to understand parking rules. * || * Useful * || * Low * || * Medium * || * Should be clear. * ||
 
-Optional Features for future releases
+*Optional Features for future releases*
 
 || * 07 * || * The system will reduce the number of operator. * || * Useful * || * Low * || * Low * || * - * ||
 || * 15 * || * The update of the system will be in short time. * || * Useful * || * Low * || * Low * || * - * ||
