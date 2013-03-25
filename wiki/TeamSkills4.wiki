@@ -2,19 +2,7 @@
 
 =Team Skill 4: Managing Scope=
 
-=Establishing Project Scope=
-
-==The Problem of Project Scope==
-
-==The Hard Question==
-
-==The Requirement Baseline==
-
-==Setting Priorities==
-
-==Assessing Effort==
-
-==Table 18-1: Prioritized Features List==
+==Table 1: Prioritized Features List==
 
 || * Feature * || * Priority * ||
 || * The system will reduce the customer’s money to find the spot. * || * Critical * ||
@@ -40,7 +28,7 @@
 
 ==Adding the Risk Element==
 
-==Table 18-2: Prioritized Features List with Effort Estimates==
+==Table 2: Prioritized Features List with Effort Estimates==
 
 || * Feature * || * Priority * || * Effort * ||
 || * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * ||
@@ -64,7 +52,7 @@
 || * Low time to make reservation. * || * Critical * || * High * ||
 || * The screen in each floor will help customers to find empty spot. * || * Critical * || * High * ||
 
-==Table 18-3: Prioritized Features List with Effort and Risk Estimates==
+==Table 3: Prioritized Features List with Effort and Risk Estimates==
 
 || * Feature * || * Priority * || * Effort * || * Risk * ||
 || * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * || * High * ||
@@ -90,7 +78,7 @@
 
 ==Reducing Scope==
 
-==Table 18-4: Scope Prioritization Techniques==
+==Table 4: Scope Prioritization Techniques==
 
 || * Attributes * || * Consider * ||
 || * Attributes * || * Consider * ||
@@ -99,7 +87,7 @@
 
 ==The Case Study: Scope Management for SPS==
 
-==Table 18-5: Prioritized SPS Features List with Effort and Risk Estimates==
+==Table 5: Prioritized SPS Features List with Effort and Risk Estimates==
 
 || * ID * || * Feature * || * Priority * || * Effort * || * Risk * ||
 || * 01 * || * The system will reduce the customer’s money to find the spot. * || * Critical * || * High * || * Medium * ||
@@ -123,7 +111,7 @@
 || * 19 * || * Low time to make reservation.* || * Critical * || * High * || * Medium * ||
 || * 20 * || * The screen in each floor will help customers to find empty spot. * || * Critical * || * High * || * Medium * ||
 
-==Table 18-6: Baseline for SPS initial release==
+==Table 6: Baseline for SPS initial release==
 
 || * ID * || * Feature * || * Priority * || * Effort * || * Risk * || * Marketing Comments * ||
 || * 09 * || * The customers can reservation before come. * || * Critical * || * High * || * Medium * || * As flexible as possible * ||
@@ -152,17 +140,3 @@
 
 || * 07 * || * The system will reduce the number of operator. * || * Useful * || * Low * || * Low * || * - * ||
 || * 15 * || * The update of the system will be in short time. * || * Useful * || * Low * || * Low * || * - * ||
-
-=Managing Your Customer=
-
-==Engaging Customers to Manage Their Project Scope==
-
-==Communicating the Result==
-
-==Negotiating with the Customer==
-
-==Managing the Baseline==
-
-==Official Changes==
-
-==Unofficial Changes==
