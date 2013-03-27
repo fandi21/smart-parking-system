@@ -136,9 +136,9 @@ The cost and pricing will be determined after finishing this project.
 || * Actors * || * Parking customers * ||
 || * Description * || * The customers choose the specific location "ZIP Code" * ||
 || * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+|| * Basic Flow * || * After choosing the location, the system shows the date & time * ||
+|| * Alternative Flow * || * If the customer does not choose the location, the system should give him an error message * ||
+|| * Post-condition * || * After the customer choose the location, the system should shows next step for reservation * ||
 
 ===6.2.2 Choose date and time use case===
 
@@ -147,53 +147,51 @@ The cost and pricing will be determined after finishing this project.
 || * Actors * || * Parking customers * ||
 || * Description * || * The customers choose the specific Date & Time * ||
 || * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After choosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoos the date & time, the system should shows next step for reservation * ||
+|| * Basic Flow * || * After choosing Date & Time the system shows spots map * ||
+|| * Alternative Flow * || * If the customer does not choose date & time, the system should give him an error message * ||
+|| * Post-condition * || * After the customer choose the date & time, the system should shows next step for reservation * ||
 
 ===6.2.3 Choose spot number use case===
 
 || * Use case number * || * 3 * ||
 || * Use case Name * || * Choose spot number * ||
 || * Actors * || * Parking customers * ||
-|| * Description * || * The customers choose the specific location "ZIP Code" * ||
+|| * Description * || * The customers choose the specific spot * ||
 || * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+|| * Basic Flow * || * After choosing a spot, the system shows the reservation form * ||
+|| * Alternative Flow * || * If the customer does not choose spot number, the system should give him an error message * ||
+|| * Post-condition * || * After the customer choose the spot number, the system should shows next step for reservation * ||
 
 ===6.2.4 Making reservation use case===
 
 || * Use case number * || * 4 * ||
 || * Use case Name * || * Making reservation * ||
-|| * Actors * || * Parking customers * ||
-|| * Description * || * The customers choose the specific location "ZIP Code" * ||
+|| * Actors * || * Parking customers, Operator * ||
+|| * Description * || * The customers fill the reservation form * ||
 || * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+|| * Basic Flow * || * After filling the reservation form, the system shows the confirmation * ||
+|| * Alternative Flow * || * If the customer does not Make a reservation, the system should give him an error message * ||
+|| * Post-condition * || * After the customer making a reservation, the system must have the reservation * ||
 
 ===6.2.5 Receiving customer reservation use case===
 
 || * Use case number * || * 5 * ||
 || * Use case Name * || * Receiving customer reservation * ||
-|| * Actors * || * Parking customers * ||
-|| * Description * || * The customers choose the specific location "ZIP Code" * ||
-|| * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+|| * Actors * || * Cashier * ||
+|| * Description * || * The cashier will receive the reservation * ||
+|| * Precondition * || * The cashier must be on the SPS system * ||
+|| * Basic Flow * || * The cashier will check the availability on the system and the system will be OK * ||
+|| * Post-condition * || * After the cashier received the reservation, he will be ready to receive any reservation * ||
 
 ===6.2.6 Interfacing SPS problems use case===
 
 || * Use case number * || * 6 * ||
 || * Use case Name * || * Interfacing SPS problems * ||
-|| * Actors * || * Parking customers * ||
-|| * Description * || * The customers choose the specific location "ZIP Code" * ||
-|| * Precondition * || * The customers must be on the SPS website * ||
-|| * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
-|| * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
-|| * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+|| * Actors * || * Developers * ||
+|| * Description * || * The developer will maintain the system if any problem happens * ||
+|| * Precondition * || * The developer will be standing for any problem that might occur * ||
+|| * Basic Flow * || * The developer will maintain the system and it will be works very well * ||
+|| * Post-condition * || * After the developer maintains the system, the system will work again to receive any another reservation * ||
 
 
 =-Other Product Requirements-=
@@ -226,9 +224,9 @@ The cost and pricing will be determined after finishing this project.
 ==8.1 User Manual==
 User manual helps operators to know much about the system and how to use and handle SPS.
 
-==8.2 Online Help==
-Online Help will be available for customers to assist them by answering their questions. 
-Online Help also will provide a video help to explain how customers use SPS.  
+==8.2 On-line Help==
+On-line Help will be available for customers to assist them by answering their questions. 
+On-line Help also will provide a video help to explain how customers use SPS.  
 
 ==8.3 Installation Guides, Configuration, Read Me File==
 This term show the customers guide which supposed to be easy to understand and deal with.
