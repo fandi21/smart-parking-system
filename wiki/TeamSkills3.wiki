@@ -173,10 +173,10 @@ The cost and pricing will be determined after finishing this project.
 || * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
 || * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
 
-===6.2.5 Making reservation use case===
+===6.2.5 Receiving customer reservation use case===
 
 || * Use case number * || * 5 * ||
-|| * Use case Name * || * Reciving customer reservation * ||
+|| * Use case Name * || * Receiving customer reservation * ||
 || * Actors * || * Parking customers * ||
 || * Description * || * The customers choose the specific location "ZIP Code" * ||
 || * Precondition * || * The customers must be on the SPS website * ||
@@ -184,7 +184,7 @@ The cost and pricing will be determined after finishing this project.
 || * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
 || * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
 
-===6.2.6 Making reservation use case===
+===6.2.6 Interfacing SPS problems use case===
 
 || * Use case number * || * 6 * ||
 || * Use case Name * || * Interfacing SPS problems * ||
@@ -194,6 +194,7 @@ The cost and pricing will be determined after finishing this project.
 || * Basic Flow * || * After cosing Date & Time the system shows spots availability * ||
 || * Alternative Flow * || * If the customer does not choose date & time, the system should gives him an error message * ||
 || * Post-condition * || * After the customer shoose the date & time, the system should shows next step for reservation * ||
+
 
 =-Other Product Requirements-=
 
