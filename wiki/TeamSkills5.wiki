@@ -1,3 +1,51 @@
 #sidebar SideBar
 
 =Team Skill 5: Refining The System Definition=
+
+=1. Introduction=
+
+==1.1 Purpose==
+
+==1.2 Scope==
+
+==1.3 References==
+
+==1.4 Assumptions and Dependencies==
+
+=2. Functionality=
+
+=3. Usability=
+
+=4. Reliability=
+
+=5. Performance=
+
+=6. Supportability=
+
+=7. Design Constraints=
+
+=8. Documentation Requirements=
+
+=9. Purchased Components=
+
+=10. Interfaces=
+
+==10.1 User Interfaces==
+
+==10.2 Hardware Interfaces==
+
+==10.3 Software Interfaces==
+
+==10.4 Communications Interfaces==
+
+=11. Licensing, Security, and Installation Requirements=
+
+=12. Legal, Copyright, and Other Notices=
+
+=13. Applicable Standards=
+
+=14. Internationalization and Localization=
+
+=15. Physical Deliverables=
+
+=16. Installation and Deployment=
