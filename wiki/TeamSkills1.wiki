@@ -2,6 +2,8 @@
 
 =Team Skill 1: Analyzing The Problem=
 
+==Step 1: Gain agreement on the problem definition.==
+
 ==Table A-1: Problem statement for Smart Parking System:==
 
 || *Element* || *Description* ||
@@ -17,7 +19,13 @@
 || And results in … || 1. The parking company loses cost. 2. Other customer can’t park.||
 || Benefits of a solution … || 1. The operator will know if someone parked his car in tow space by the sensor. 2. The operator will make this car park in one space. 3. If the customer doesn’t move his car, the operator will charge him for another space his used. 4. The parking company will benefit from all space used.||
 
-=SPS System Block Diagram:=
+==Step 2: Understanding the root causes - the problem behind the problem Fishbone Diagram of Root Causes.==
+
+<img src="http://i47.tinypic.com/vzwswz.jpg"/>
+
+==Step 3: Identify stakeholders and the users of the Smart Reservation Restaurant (SPS).==
+
+===SPS System Block Diagram:===
 <img src="http://i48.tinypic.com/2nc2s7m.jpg"/>
 
 =Actor Survey:=
