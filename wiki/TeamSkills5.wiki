@@ -5,30 +5,76 @@
 =1. Introduction=
 
 ==1.1 Purpose==
+The main purpose of Software Requirement Specification to describe and collect functional and non-functional requirements that have not been described in the Use-cases for release 1.0 of Smart Parking System. Such as the nonfunctional requirements like: usability, reliability, performance, and support ability.
 
 ==1.2 Scope==
+Smart Parking System will offer some services for the customers of the parking which allow them to find vacant spots for customers. Moreover, the system is going to save the money and time of the customers by making reservation online or on smart app. On the whole the objective of the project is to make the life easier and to reduce of the reliance on traditional way to find vacant spots especially in some cases such as rush hour. A detailed project description is available in Project Description and Team Skill 3.
 
 ==1.3 References==
+Business Process
+Team Skill 3
 
 ==1.4 Assumptions and Dependencies==
 
 =2. Functionality=
+  #*Ability to obtain a vacant spot without losing time.
+  #*Ability to reserve a spot online.
+  #*Ability to provide appropriate spots for a hand cab and reserved spots.
+  #*Ability to pay for customer's bill by using the smart phone.
 
 =3. Usability=
+  #*Easy to understand parking rules.
+  #*The system should be easy to handle.
+  #*Available service any time.
+  #*Easy to use the mobile app without any difficulty.
+  #*Short time and steps to make a reservation.
+  #*Providing a guideline to the customer.
+  #*Short time to get a response for the reservation.
+  #*Easy to find reservation icon on the website.
+  #*Mobile app will be developed following common Mobile parking application.
 
 =4. Reliability=
+  #*The system will be available 24 hours in 7 days and greater than or equal to 99.9%.	
+  #*Software reliability is greater or equal to 99.99%.
+  #*Smart Parking system shall have no defect that can interface with normal operation with the mobile application.
+  #*The system should be trustworthy.
+  #*The system will reduce the customer’s money and time to find the spot.	
+  #*The system must have a strong security.
+  #*The size for the database will be acceptable.
 
 =5. Performance=
+  #*Software should have instant response to user inputs.
+  #*The performance is determined by the average response time for each request given by the user and the transaction done per a second.
+  #*The update of the system will be in short time.
 
 =6. Supportability=
+  #*The system will be fully supported for each customer.
+  #*Frequent software updates will be available to the customer.
+  #*The system will run on different platforms.
+  #*The update of the system will be in short time.
+  #*The system will work automatically.
 
 =7. Design Constraints=
+  #*The system will be developed using Php and Java.
+  #*The database will be developed in SQL.
+  #*The size for the database is acceptable.
+  #*The system must have a strong security by choosing SELinux server or 	
+  #*Powerful servers.
+  #*Smart Parking app will be designed following common mobile standards.
 
 =8. Documentation Requirements=
+Following documentation will be provided:
+  #*User Manual.
+  #*Online Help.
+  #*Installation Guides, Configuration, Read Me File.
+  #*Labeling and Packaging.
 
 =9. Purchased Components=
 
 =10. Interfaces=
+  #*User Interface: the system is integrated with the existing online parking.
+  #*Hardware Interface: The smart phones or the parking website.
+  #*Software Interface.
 
 ==10.1 User Interfaces==
 
@@ -39,13 +85,24 @@
 ==10.4 Communications Interfaces==
 
 =11. Licensing, Security, and Installation Requirements=
+  #*The application can be installed from different smart phone apps stores such as Apple store, Android Store and so on.
+  #*Will use 256-bit AES encryption to secure the connection.
 
 =12. Legal, Copyright, and Other Notices=
+  #*All code, product documentation, online help, user interfaces, and about dialogs must contain following copyrighted message-Copyright © 2013-2014 Smart parking, All rights reserved.
+  #*Before first use, customer must agree to terms and conditions of application use.
 
 =13. Applicable Standards=
+  #*IOS
+  #*Android
+  #*Windows
+  #*Blackberry
 
 =14. Internationalization and Localization=
+*As off right now all aspects of the system will be in English language only.
 
 =15. Physical Deliverables=
+*Non
 
 =16. Installation and Deployment=
+*The system will be installed to be ready to use to the customer by download the app from mobile stores or by checking the smart parking website.
