@@ -17,7 +17,7 @@ Team Skill 3
 ==1.4 Assumptions and Dependencies==
 
 =2. Functionality=
-  #*Ability to obtain a vacant spot without losing time.
+  *#Ability to obtain a vacant spot without losing time.
   #*Ability to reserve a spot online.
   #*Ability to provide appropriate spots for a hand cab and reserved spots.
   #*Ability to pay for customer's bill by using the smart phone.
