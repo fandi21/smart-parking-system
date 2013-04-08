@@ -18,63 +18,63 @@ Team Skill 3
 
 =2. Functionality=
   *#Ability to obtain a vacant spot without losing time.
-  #*Ability to reserve a spot online.
-  #*Ability to provide appropriate spots for a hand cab and reserved spots.
-  #*Ability to pay for customer's bill by using the smart phone.
+  *#Ability to reserve a spot online.
+  *#Ability to provide appropriate spots for a hand cab and reserved spots.
+  *#Ability to pay for customer's bill by using the smart phone.
 
 =3. Usability=
-  #*Easy to understand parking rules.
-  #*The system should be easy to handle.
-  #*Available service any time.
-  #*Easy to use the mobile app without any difficulty.
-  #*Short time and steps to make a reservation.
-  #*Providing a guideline to the customer.
-  #*Short time to get a response for the reservation.
-  #*Easy to find reservation icon on the website.
-  #*Mobile app will be developed following common Mobile parking application.
+  *#Easy to understand parking rules.
+  *#The system should be easy to handle.
+  *#Available service any time.
+  *#Easy to use the mobile app without any difficulty.
+  *#Short time and steps to make a reservation.
+  *#Providing a guideline to the customer.
+  *#Short time to get a response for the reservation.
+  *#Easy to find reservation icon on the website.
+  *#Mobile app will be developed following common Mobile parking application.
 
 =4. Reliability=
-  #*The system will be available 24 hours in 7 days and greater than or equal to 99.9%.	
-  #*Software reliability is greater or equal to 99.99%.
-  #*Smart Parking system shall have no defect that can interface with normal operation with the mobile application.
-  #*The system should be trustworthy.
-  #*The system will reduce the customer’s money and time to find the spot.	
-  #*The system must have a strong security.
-  #*The size for the database will be acceptable.
+  *#The system will be available 24 hours in 7 days and greater than or equal to 99.9%.	
+  *#Software reliability is greater or equal to 99.99%.
+  *#Smart Parking system shall have no defect that can interface with normal operation with the mobile application.
+  *#The system should be trustworthy.
+  *#The system will reduce the customer’s money and time to find the spot.	
+  *#The system must have a strong security.
+  *#The size for the database will be acceptable.
 
 =5. Performance=
-  #*Software should have instant response to user inputs.
-  #*The performance is determined by the average response time for each request given by the user and the transaction done per a second.
-  #*The update of the system will be in short time.
+  *#Software should have instant response to user inputs.
+  *#The performance is determined by the average response time for each request given by the user and the transaction done per a second.
+  *#The update of the system will be in short time.
 
 =6. Supportability=
-  #*The system will be fully supported for each customer.
-  #*Frequent software updates will be available to the customer.
-  #*The system will run on different platforms.
-  #*The update of the system will be in short time.
-  #*The system will work automatically.
+  *#The system will be fully supported for each customer.
+  *#Frequent software updates will be available to the customer.
+  *#The system will run on different platforms.
+  *#The update of the system will be in short time.
+  *#The system will work automatically.
 
 =7. Design Constraints=
-  #*The system will be developed using Php and Java.
-  #*The database will be developed in SQL.
-  #*The size for the database is acceptable.
-  #*The system must have a strong security by choosing SELinux server or 	
-  #*Powerful servers.
-  #*Smart Parking app will be designed following common mobile standards.
+  *#The system will be developed using Php and Java.
+  *#The database will be developed in SQL.
+  *#The size for the database is acceptable.
+  *#The system must have a strong security by choosing SELinux server or 	
+  *#Powerful servers.
+  *#Smart Parking app will be designed following common mobile standards.
 
 =8. Documentation Requirements=
 Following documentation will be provided:
-  #*User Manual.
-  #*Online Help.
-  #*Installation Guides, Configuration, Read Me File.
-  #*Labeling and Packaging.
+  *#User Manual.
+  *#Online Help.
+  *#Installation Guides, Configuration, Read Me File.
+  *#Labeling and Packaging.
 
 =9. Purchased Components=
 
 =10. Interfaces=
-  #*User Interface: the system is integrated with the existing online parking.
-  #*Hardware Interface: The smart phones or the parking website.
-  #*Software Interface.
+  *#User Interface: the system is integrated with the existing online parking.
+  *#Hardware Interface: The smart phones or the parking website.
+  *#Software Interface.
 
 ==10.1 User Interfaces==
 
@@ -85,18 +85,18 @@ Following documentation will be provided:
 ==10.4 Communications Interfaces==
 
 =11. Licensing, Security, and Installation Requirements=
-  #*The application can be installed from different smart phone apps stores such as Apple store, Android Store and so on.
-  #*Will use 256-bit AES encryption to secure the connection.
+  *#The application can be installed from different smart phone apps stores such as Apple store, Android Store and so on.
+  *#Will use 256-bit AES encryption to secure the connection.
 
 =12. Legal, Copyright, and Other Notices=
-  #*All code, product documentation, online help, user interfaces, and about dialogs must contain following copyrighted message-Copyright © 2013-2014 Smart parking, All rights reserved.
-  #*Before first use, customer must agree to terms and conditions of application use.
+  *#All code, product documentation, online help, user interfaces, and about dialogs must contain following copyrighted message-Copyright © 2013-2014 Smart parking, All rights reserved.
+  *#Before first use, customer must agree to terms and conditions of application use.
 
 =13. Applicable Standards=
-  #*IOS
-  #*Android
-  #*Windows
-  #*Blackberry
+  *#IOS
+  *#Android
+  *#Windows
+  *#Blackberry
 
 =14. Internationalization and Localization=
 *As off right now all aspects of the system will be in English language only.
