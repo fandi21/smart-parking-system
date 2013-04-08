@@ -11,7 +11,7 @@ The main purpose of Software Requirement Specification to describe and collect f
 Smart Parking System will offer some services for the customers of the parking which allow them to find vacant spots for customers. Moreover, the system is going to save the money and time of the customers by making reservation online or on smart app. On the whole the objective of the project is to make the life easier and to reduce of the reliance on traditional way to find vacant spots especially in some cases such as rush hour. A detailed project description is available in Project Description and Team Skill 3.
 
 ==1.3 References==
-Business Process
+<wiki:Business Process url="https://code.google.com/p/smart-parking-system/wiki/BusinessProcess" height="200" border="0" />
 Team Skill 3
 
 ==1.4 Assumptions and Dependencies==
