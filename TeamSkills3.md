@@ -1,0 +1,243 @@
+# Team Skill 3: Defining The System #
+
+## 1.1 Purpose of the Vision Document ##
+The purpose of the vision document is to collect, analyze implementation, test and define high-level needs and features of the Smart Parking System.
+
+## 1.2 Product Overview ##
+The Smart Parking System will provide a reservation system with a normal one in order to find vacant spots for customers. Moreover, the system is going to save the money and time of the customers by making reservation online or on smart app.
+
+## 1.3 References ##
+Business Process
+Team Skill 1
+Team Skill 2
+
+# -User Description- #
+
+## 2.1 User/Market Demographics ##
+
+## 2.2 User Profiles ##
+Customers: Who use the SPS to reserve their vacant spots.
+Developers: Who is in charge to develop the SPS and maintenance it.
+Cashier/operator: Who solves the problems that may face customers and system.
+
+## 2.3 User Environment ##
+The Smart Parking System (SPS) should exist in any parking lot, and customers will be able to make online reservation.
+
+## 2.4 Key User Needs ##
+From Parking’s owner perspective:
+  * Sufficient profit.
+  * Organized parking lot
+  * Operator, Security, an engineer.
+  * Parking rules.
+  * Parking’s security
+  * Fast and accurate system.
+  * Reliable system.
+  * Able to add new features in the future.
+  * Speed of reservation’s update
+  * Notification of new reservations.
+  * Guarantee on software and hardware.
+  * Meaningful feedback.
+
+From customer perspective:
+  * Easy to understand parking rules.
+  * Ability to obtain a vacant spot without losing time.
+  * Ability to reserve a spot online.
+  * Ability to provide appropriate spots for a hand cab and reserved spots.
+  * The system should be easy to handle.
+  * Available service any time.
+  * Short time and steps to make a reservation.
+  * No membership or username is required.
+  * Short time to get a response for the reservation.
+  * Easy to find reservation icon on the website.
+  * The system should be trustworthy.
+
+## 2.5 Alternatives and Competition ##
+
+### 2.5.1 Attending in a location for reservation ###
+Customers may come to a curtain location or parking lot to make a reservation individually is an alternative way to make reservations.
+
+### 2.5.2 Phone reservation ###
+Customers may call an operator of curtain parking lot to make reservations.
+
+# -SPS Overview- #
+
+## 3.1 SPS Perspective ##
+
+## 3.2. SPS Position Statement ##
+| **For** | **Smart Parking System’s customers** |
+|:--------|:---------------------------------------|
+| **Who** | **Smart Parking System’s customers** |
+| **SPS** | **Smart Parking System’s customers** |
+| **That** | **Smart Parking System’s customers** |
+| **Unlike** | **Smart Parking System’s customers** |
+| **Our Product** | **Smart Parking System’s customers** |
+
+## 3.3 Summary of Capabilities. ##
+| **Customer Benefits** | **Supporting Features** |
+|:----------------------|:------------------------|
+| **By making a reservation online, they are able to save time and money.** | **Reservation**         |
+| **Heading to vacant spots in fast way.** | **Board guide a way**   |
+
+## 3.4 Assumptions and Dependencies ##
+  * Customers of SPS should be able to deal with a computer or a smart phone.
+  * The Smart Parking System should have a website.
+  * Internet is necessary to complete the reservation.
+  * Easy to use
+
+## 3.5 Cost and Pricing ##
+The cost and pricing will be determined after finishing this project.
+
+# -Feature Attributes- #
+
+| **Function** | **Status** | **Risk** | **Priority** | **Stability** |
+|:-------------|:-----------|:---------|:-------------|:--------------|
+| **Sufficient profit.** | **Approved** | **High** | **High**     | **High**      |
+| **Organized parking lot.** | **Approved** | **High** | **High**     | **High**      |
+| **Operator, Security, an engineer.** | **Approved** | **High** | **High**     | **Mid**       |
+| **Parking rules.** | **Approved** | **High** | **High**     | **Low**       |
+| **Parking’s security.** | **Approved** | **High** | **High**     | **High**      |
+| **Fast and accurate system.** | **Approved** | **High** | **High**     | **High**      |
+| **Reliable system.** | **Approved** | **High** | **High**     | **High**      |
+| **Able to add new features in the future.** | **Approved** | **Mid**  | **Mid**      | **Mid**       |
+| **Speed of reservation’s update.** | **Approved** | **Low**  | **Low**      | **Low**       |
+| **Notification of new reservations.** | **Approved** | **High** | **High**     | **High**      |
+| **Easy to understand parking rules.** | **Approved** | **High** | **High**     | **High**      |
+| **Ability to obtain a vacant spot without losing time.** | **Approved** | **High** | **High**     | **High**      |
+| **Ability to reserve a spot online.** | **Approved** | **High** | **High**     | **High**      |
+| **Ability to provide appropriate spots for a hand cab and reserved spots.** | **Approved** | **High** | **High**     | **High**      |
+| **The system should be easy to handle.** | **Approved** | **High** | **High**     | **High**      |
+| **Available service any time.** | **Approved** | **High** | **High**     | **High**      |
+
+# -SPS system Features- #
+
+## 5.1 Board guide way: help customers to drive to their vacant spots easily. ##
+
+## 5.2 Make a reservation any time: customers can make reservation before they reach their destination. ##
+
+## 5.3 Easy to use: Customers can easily handle it and save their time. ##
+
+# -Exemplary Use Case- #
+
+| **Name** | **Description** | **Actors** |
+|:---------|:----------------|:-----------|
+| **Choose location (Zip code)** | **The customers should enter zip code for choosing their parking.** | **SPS Customer** |
+| **Choose Date & time** | **The customers should enter date & time information.** | **SPS Customer** |
+| **Choose spot number** | **The customers choose a vacant spot which they want.** | **SPS Customer** |
+| **Making reservation** | **The customers reserve available spots.** | **SPS Customer & operators** |
+
+## 6.1 Use cases ##
+
+<img src='http://i50.tinypic.com/2nuk2a0.jpg' />
+
+## 6.2 Use cases Description ##
+
+### 6.2.1 Choose location use case ###
+
+| **Use case number** | **1** |
+|:--------------------|:------|
+| **Use case Name**   | **Choose Location** |
+| **Actors**          | **Parking customers** |
+| **Description**     | **The customers choose the specific location "ZIP Code"** |
+| **Precondition**    | **The customers must be on the SPS website** |
+| **Basic Flow**      | **After choosing the location, the system shows the date & time** |
+| **Alternative Flow** | **If the customer does not choose the location, the system should give him an error message** |
+| **Post-condition**  | **After the customer choose the location, the system should shows next step for reservation** |
+
+### 6.2.2 Choose date and time use case ###
+
+| **Use case number** | **2** |
+|:--------------------|:------|
+| **Use case Name**   | **Choose Date & Time** |
+| **Actors**          | **Parking customers** |
+| **Description**     | **The customers choose the specific Date & Time** |
+| **Precondition**    | **The customers must be on the SPS website** |
+| **Basic Flow**      | **After choosing Date & Time the system shows spots map** |
+| **Alternative Flow** | **If the customer does not choose date & time, the system should give him an error message** |
+| **Post-condition**  | **After the customer choose the date & time, the system should shows next step for reservation** |
+
+### 6.2.3 Choose spot number use case ###
+
+| **Use case number** | **3** |
+|:--------------------|:------|
+| **Use case Name**   | **Choose spot number** |
+| **Actors**          | **Parking customers** |
+| **Description**     | **The customers choose the specific spot** |
+| **Precondition**    | **The customers must be on the SPS website** |
+| **Basic Flow**      | **After choosing a spot, the system shows the reservation form** |
+| **Alternative Flow** | **If the customer does not choose spot number, the system should give him an error message** |
+| **Post-condition**  | **After the customer choose the spot number, the system should shows next step for reservation** |
+
+### 6.2.4 Making reservation use case ###
+
+| **Use case number** | **4** |
+|:--------------------|:------|
+| **Use case Name**   | **Making reservation** |
+| **Actors**          | **Parking customers, Operator** |
+| **Description**     | **The customers fill the reservation form** |
+| **Precondition**    | **The customers must be on the SPS website** |
+| **Basic Flow**      | **After filling the reservation form, the system shows the confirmation** |
+| **Alternative Flow** | **If the customer does not Make a reservation, the system should give him an error message** |
+| **Post-condition**  | **After the customer making a reservation, the system must have the reservation** |
+
+### 6.2.5 Receiving customer reservation use case ###
+
+| **Use case number** | **5** |
+|:--------------------|:------|
+| **Use case Name**   | **Receiving customer reservation** |
+| **Actors**          | **Cashier** |
+| **Description**     | **The cashier will receive the reservation** |
+| **Precondition**    | **The cashier must be on the SPS system** |
+| **Basic Flow**      | **The cashier will check the availability on the system and the system will be OK** |
+| **Post-condition**  | **After the cashier received the reservation, he will be ready to receive any reservation** |
+
+### 6.2.6 Interfacing SPS problems use case ###
+
+| **Use case number** | **6** |
+|:--------------------|:------|
+| **Use case Name**   | **Interfacing SPS problems** |
+| **Actors**          | **Developers** |
+| **Description**     | **The developer will maintain the system if any problem happens** |
+| **Precondition**    | **The developer will be standing for any problem that might occur** |
+| **Basic Flow**      | **The developer will maintain the system and it will be works very well** |
+| **Post-condition**  | **After the developer maintains the system, the system will work again to receive any another reservation** |
+
+
+# -Other Product Requirements- #
+
+## 7.1 Applicable Standards ##
+  * Internet.
+  * ISO for safety and quality standards.
+  * UL for safety and quality standards.
+  * CMM for safety and quality standards.
+
+## 7.2 System Requirements ##
+  * The server must be running Windows Server 2003 or newer.
+  * Oracle Database.
+  * Internet modem.
+  * Hard disk 20 GB.
+
+## 7.3 Licensing, Security, and Installation ##
+  * Set of this terms agreement and condition for the system policy.
+  * Software security system should be well installed by an antivirus program.
+
+## 7.4 Performance Requirements ##
+  * Receiving any amount of reservations.
+  * Save all reservations process in database.
+  * Reservation update.
+  * High response of the system.
+  * Ability to control all reservation in order to add or delete.
+
+# -Documentation Requirements- #
+
+## 8.1 User Manual ##
+User manual helps operators to know much about the system and how to use and handle SPS.
+
+## 8.2 On-line Help ##
+On-line Help will be available for customers to assist them by answering their questions.
+On-line Help also will provide a video help to explain how customers use SPS.
+
+## 8.3 Installation Guides, Configuration, Read Me File ##
+This term show the customers guide which supposed to be easy to understand and deal with.
+
+# -Glossary- #
+SPS- Smart Parking System

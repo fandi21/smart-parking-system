@@ -1,0 +1,90 @@
+# Team Skill 2: Understanding User and Stakeholder Needs #
+
+## From Users of parking lot's point view ##
+  * Ability to obtain a vacant spot without losing time.
+  * Ability to reserve a spot online.
+  * Ability to provide appropriate spots for a hand cab and reserved spots
+  * It is necessary to have a secured parking lot.
+  * Easy to use a reservation system online or on smart phone.
+  * Organized parking lot.
+  * Easy to understand parking rules.
+
+## From stakeholders of parking lot's point view ##
+  * Easy to use.
+  * Organized parking lot.
+  * Easy to understand parking rules.
+  * Sufficient profit.
+  * Operator, Security, an engineer.
+
+# Interview #
+
+## Who are the users? ##
+  * Normal drivers and hand cab drivers
+  * Manger of parking lot.
+
+## What is the problem? ##
+  * No website for reservation system.
+  * No software to organize the parking lot.
+  * No sings show direction and if there are empty spots or not.
+  * There is no guaranteed spot for customers who make reservation.
+
+## How do you currently solve the problem? ##
+  * Create a reservation system online or on smart phone.
+  * Create ultrasound software system.
+  * Make boards which are feedback from the software.
+  * Create arm gate system or it will be designed when a parking lot is built.
+
+# The Requirement Workshop #
+
+## Attendees of the Smart-Parking-System Requirements Workshop ##
+
+| **Name** | **Role** | **Title** | **Comments** |
+|:---------|:---------|:----------|:-------------|
+| **Yousef** | **Facilitator** | **Parking owner** | **Stakeholder** |
+| **Ahmed** | **Participant** | **Manager** | **Parking worker** |
+| **Jalal** | **Participant** | **An Engineer** | **Parking worker "Interfacing SPS problems"** |
+| **Abdulhakum** | **Participant** | **Cashier** | **Parking worker** |
+| **Akram** | **Participant** | **Security man** | **Parking worker** |
+| **Reda** | **Participant** | **Customer** | **Parking customer** |
+| **Ali**  | **Participant** | **Customer** | **Parking customer** |
+| **Mohammed** | **Participant** | **Customer** | **Parking customer** |
+| **Abdulatif** | **Observer** | **SPS developer** | **Project Manager** |
+| **Ans**  | **Observer** | **SPS developer** | **Project Designer** |
+| **Abdullah** | **Observer** | **SPS developer** | **System Analyst** |
+| **Hattan** | **Observer** | **SPS developer** | **System Analyst** |
+
+<img src='http://i53.tinypic.com/35n3gh3.jpg' />
+
+# Warm Up session #
+  * A brief introduction about the user needs.
+  * An overview on how the new system is going to be built and which basic features will be provided.
+
+## List of Features with Priority ##
+
+| **Function** | **Priority** |
+|:-------------|:-------------|
+| **Easy to use and find reservation** | **High**     |
+| **Fast**     | **High**     |
+| **Accurate** | **High**     |
+| **Reliable** | **High**     |
+| **Short time** | **High**     |
+| **Speed of reservation’s update** | **High**     |
+| **Expanding database** | **High**     |
+| **Save process** | **High**     |
+| **Notification of new reservation** | **High**     |
+| **Meaningful feedback** | **Medium**   |
+| **Include languages other than English** | **Low**      |
+
+# Use Cases #
+| **Name** | **Description** | **Actors** |
+|:---------|:----------------|:-----------|
+| **Using** | **online**      | **Go to parking website or Smartphone App	Customers** |
+| **Area** | **Choosing a zone by putting Zip cod** | **Customers** |
+| **Availability** | **Check an available parking and spot** | **System** |
+| **Reservation** | **Choosing a vacant spot** | **Customers** |
+| **Information** | **Entering the personal information** | **Customers** |
+| **Confirmation** | **Obtaining or receiving the confirmation number** | **System** |
+| **Notification** | **Sending the confirmation number by E-mail or text message** | **System** |
+| **Direction** | **Giving the map direction for parking and spot** | **System** |
+| **Save process** | **Automatic saving** | **System** |
+| **End process** | **Close the website page or Smartphone App** | **Customers** |
